@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hdtrinh
+- 👋 Hi, I’m @hdtrinh more info at [hdtrinh.github.io](https://hdtrinh.github.io/)
 - 👀 AI/ML - Security
 - :desktop_computer: Working @ Exein.io
 
